@@ -1,0 +1,6 @@
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\bin\Debug\Tristan_Yurgionas_projecty_4.exe.config
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\bin\Debug\Tristan_Yurgionas_projecty_4.exe
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\bin\Debug\Tristan_Yurgionas_projecty_4.pdb
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\obj\Debug\Tristan_Yurgionas_projecty_4.csprojResolveAssemblyReference.cache
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\obj\Debug\Tristan_Yurgionas_projecty_4.exe
+c:\users\red panda\documents\visual studio 2015\Projects\Tristan_Yurgionas_projecty_4\Tristan_Yurgionas_projecty_4\obj\Debug\Tristan_Yurgionas_projecty_4.pdb
